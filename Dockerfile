@@ -1,5 +1,5 @@
 FROM python:3.9.1-alpine
-LABEL AUTHOR Clinton Bugtong
+LABEL AUTHOR Clinton L. Bugtong
 
 ENV PYTHONUNBUFFERED 1
 
